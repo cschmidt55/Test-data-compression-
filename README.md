@@ -1,7 +1,9 @@
 If you don't have Matlab, you can sign up and request the free trial version for one month. In order to use the program you have to add the following toolboxes (open matlab and click on Add-Ons):
 
 Signal processing toolbox
+
 DSP system toolbox
+
 Communication toolbox
 
 Registration and installation are very fast, so anyone can test the program in a short time.
