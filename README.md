@@ -11,15 +11,18 @@ Registration and installation are very fast, so anyone can test the program in a
 Files description:
 
 f_Statistics_Set_Shaping_Theory_Huffman_l.m
+
 Matlab program that performs the data compression experiment.
 
 fSSTt.p
+
 Function that performs the transform.
 
 invfSSTt
+
 Function that performs the inverse transform. Furthermore, if the transmitted file is modified by the noise, it can detect the error with a probability 1/(N+1), with N length of the sequence. When the error is detected, appear the message "error found".
 
-To understand what the transform does, we suggest to read the following presentation:
+in order to understand what the transform does, we suggest to read the following presentation:
 
 https://www.academia.edu/61997612/Set_Shaping_Theory_the_future_of_information_theory_
 
